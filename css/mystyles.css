@@ -3,6 +3,10 @@
   background-color: #7AB9C0;
   }
 
+body{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
 .alifoot{
   background-color: #7AB9C0;
   border-radius: 5px;
